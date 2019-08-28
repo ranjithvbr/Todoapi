@@ -31,3 +31,34 @@
     transform: rotate(360deg);
   }
 }
+
+.widtnsize{
+  width: 570% !important;
+}
+
+.marginl{
+  margin-left: 3px !important;
+}
+
+.card{
+  width: 37%;
+}
+
+.floatright{
+  float:right;
+}
+
+.flexdis{
+  display: flex;
+}
+
+.height60{
+  height: 60px;
+  width:70% !important;
+}
+
+.changeposition {
+    position: relative;
+    bottom: 296px;
+    left: 430px;
+}
